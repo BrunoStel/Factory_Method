@@ -6,6 +6,7 @@ export default abstract class Transport {
 
         let vehicle = this.createTransport();
         vehicle.startRoute();
+        
 
     }
 
